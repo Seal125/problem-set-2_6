@@ -43,7 +43,7 @@
   },
   {
       author: 'Walter Isaacson',
-      title: 'Steve Jobs,
+      title: 'Steve Jobs',
       readingStatus: true
   },
   {
